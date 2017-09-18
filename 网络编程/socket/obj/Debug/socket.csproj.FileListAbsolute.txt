@@ -1,0 +1,9 @@
+G:\网络编程\socket\bin\Debug\socket.exe.config
+G:\网络编程\socket\bin\Debug\socket.exe
+G:\网络编程\socket\bin\Debug\socket.pdb
+G:\网络编程\socket\obj\Debug\socket.csprojResolveAssemblyReference.cache
+G:\网络编程\socket\obj\Debug\socket.Form1.resources
+G:\网络编程\socket\obj\Debug\socket.Properties.Resources.resources
+G:\网络编程\socket\obj\Debug\socket.csproj.GenerateResource.Cache
+G:\网络编程\socket\obj\Debug\socket.exe
+G:\网络编程\socket\obj\Debug\socket.pdb

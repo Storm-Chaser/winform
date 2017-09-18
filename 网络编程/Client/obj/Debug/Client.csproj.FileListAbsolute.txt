@@ -1,0 +1,9 @@
+G:\网络编程\Client\bin\Debug\Client.exe.config
+G:\网络编程\Client\bin\Debug\Client.exe
+G:\网络编程\Client\bin\Debug\Client.pdb
+G:\网络编程\Client\obj\Debug\Client.Form1.resources
+G:\网络编程\Client\obj\Debug\Client.Properties.Resources.resources
+G:\网络编程\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+G:\网络编程\Client\obj\Debug\Client.exe
+G:\网络编程\Client\obj\Debug\Client.pdb
+G:\网络编程\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
